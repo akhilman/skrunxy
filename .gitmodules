@@ -1,3 +1,9 @@
 [submodule "firmware/Marlin"]
 	path = firmware/marlin
 	url = https://github.com/MarlinFirmware/Marlin
+[submodule "vendor/BIGTREETECH-SKR-V1.3"]
+	path = vendor/BIGTREETECH-SKR-V1.3
+	url = https://github.com/bigtreetech/BIGTREETECH-SKR-V1.3.git
+[submodule "vendor/MINI-12864"]
+	path = vendor/MINI-12864
+	url = https://github.com/bigtreetech/MINI-12864.git
