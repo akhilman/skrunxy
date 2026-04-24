@@ -12,6 +12,7 @@ Formerly a Tronxy C5, now something else.
 - [ ] Rebuild the gantry and toolhead;
 - [ ] Build a new top cover, with the new LCD placement and an LED light;
 - [ ] Build a front door;
+- [ ] Add thermal insulation for the whole case;
 - [ ] Build an auxiliary fan;
 - [ ] Replace the power supply;
 - [ ] Add a chamber heater.
