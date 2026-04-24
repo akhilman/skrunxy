@@ -1,5 +1,5 @@
 [submodule "firmware/Marlin"]
-	path = firmware/marlin
+	path = marlin
 	url = https://github.com/akhilman/skrunxy-marlin.git
 [submodule "vendor/BIGTREETECH-SKR-V1.3"]
 	path = vendor/BIGTREETECH-SKR-V1.3
